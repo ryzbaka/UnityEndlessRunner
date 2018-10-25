@@ -13,7 +13,7 @@ public class collision : MonoBehaviour {
 	Vector3 temp;
 	private void Start()
 	{
-		temp = player.position;
+		//temp = player.position;
 	}
 	private void OnCollisionEnter(Collision collision)
 	{
